@@ -1,2 +1,3 @@
 # STEPIK_575_files
-Files for Stepik 575 course
+Here are files for Stepik course [Автоматизация тестирования с помощью Selenium и Python] (https://stepik.org/course/575).
+Name of file is module_lesson_step.
