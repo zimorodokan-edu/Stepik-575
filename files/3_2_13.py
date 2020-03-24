@@ -3,10 +3,7 @@ import time
 import unittest
 
 
-
 class TestRegistration(unittest.TestCase):
-
-
 
     def test_one(self):
         try:
@@ -79,6 +76,7 @@ class TestRegistration(unittest.TestCase):
             time.sleep(10)
             # закрываем браузер после всех манипуляций
             browser.quit()
+
 
 # browser.quit()
 
